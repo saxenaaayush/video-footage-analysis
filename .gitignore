@@ -1,0 +1,16 @@
+
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+
+
+models/
+outputs/
+data/frames/
+data/detection_results/
+data/raw/
+
+
+*.ipynb_checkpoints/data/raw/

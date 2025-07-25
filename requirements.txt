@@ -1,0 +1,11 @@
+ultralytics==8.0.172
+opencv-python
+paddleocr
+numpy
+matplotlib
+pandas
+easyocr
+fpdf
+deep_sort_realtime
+tqdm
+jupyter
