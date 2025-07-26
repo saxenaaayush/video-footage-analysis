@@ -6,10 +6,10 @@ env/
 venv/
 
 
-models/
-outputs/
-data/frames/
-data/detection_results/
+# models/
+# outputs/
+# data/frames/
+# data/detection_results/
 data/raw/
 
 
